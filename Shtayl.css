@@ -1,0 +1,34 @@
+html{
+    background-color: #24282e;
+}
+table{
+    background-color: #474747;
+    border-style: hidden;
+    border-radius: 20px;
+}
+th{
+   padding: 10px; 
+}
+.menü{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    padding-right: 55%;
+}
+a{
+    color: black;
+}
+.gomb:hover{
+    background-color: #858585;
+}
+.tukor{
+    border: 10px solid #474747;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 60px;
+}
+.orarend{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
