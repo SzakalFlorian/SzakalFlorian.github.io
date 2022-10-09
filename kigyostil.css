@@ -1,0 +1,29 @@
+body {
+    user-select: none;
+    text-align: center;
+    background-color: #24282e;
+    color: rgb(22, 61, 69);
+}
+td {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(121, 188, 188);
+    text-align: center;
+    font-size: 10px;
+    color: rgb(248, 246, 201);
+    user-select: none;
+}
+table {
+    margin: auto;
+    padding: 6px;
+    border-spacing: 2px;
+    background-color: rgb(240, 255, 245);
+    border-radius: 7px;
+}
+.masodik{
+    background-color: #24282e;
+    margin: 0px;
+    padding: 0px;
+    border-spacing: 0px;
+    border-radius: 0px;
+}
