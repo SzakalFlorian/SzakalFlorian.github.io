@@ -1,7 +1,7 @@
 html{
     background-color: #24282e;
 }
-table{
+table,p{
     background-color: #474747;
     border-style: hidden;
     border-radius: 20px;
